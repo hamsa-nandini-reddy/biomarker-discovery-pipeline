@@ -1,0 +1,6 @@
+Gene,Gene_Type,Protein_Function,Druggable,Known_Inhibitors
+Gene_9,Upregulated,Tumor Suppressor,Yes,P53 activators
+Gene_4,Upregulated,Cell Proliferation,Yes,Kinase inhibitors
+Gene_15,Downregulated,Apoptosis,Maybe,BH3 mimetics
+Gene_2,Upregulated,Growth Factor,Yes,Receptor antagonists
+Gene_18,Upregulated,Angiogenesis,Yes,Anti-angiogenic agents
